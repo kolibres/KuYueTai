@@ -1,0 +1,150 @@
+.video{
+    height: 565px;
+    width: 1000px;
+}
+.tuijian{
+    margin: auto;
+    background-color: white;
+    height: 800px;
+    width: 980px;
+    padding: 10px;
+}
+.title1{
+    margin: 0px;
+    font-size: 18px;
+    color: grey;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.imgbox{
+    height: 100px;
+    width: 164px;
+    text-align: center;
+    border: 1px solid rgb(233, 233, 233);
+    padding-top: 2px;
+}
+.imgbox img{
+    cursor: pointer;
+}
+.pinglun {
+    height: 660px;
+    width: 660px;
+    
+}
+.title1{
+    margin: 0px;
+    font-size: 18px;
+    color: grey;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#shuru{
+    height: 100px;
+    width: 580px;
+    border: 1px solid rgb(233, 233, 233);
+    resize: none;
+}
+#fabu{
+   float: right;
+    height: 35px;
+    width: 90px;
+    margin-top: 20px;
+    position: relative;
+    right: 22px;
+}
+.center{
+    display: flex; 
+    height: 690px; 
+    width: 990px; 
+    justify-content: space-between;
+}
+.pinglun1{
+    height: 100px;
+    width: 660px;
+    
+    margin-top: 65px;
+}
+.pinglun1 img{
+    height: 75px;
+    width: 75px;
+}
+.pinglunp{
+    font-size: 13px;
+    margin: 0px;
+    position: relative;
+    top: -80px;
+    right: -90px;
+    color: grey;
+}
+.huifu{
+    color: yellowgreen;
+    cursor: pointer;
+    margin: 0px;
+    font-size: 13px;
+    float: right;
+    position: relative;
+    top: -55px;
+}
+.divide{
+    height: 1px;
+    background-color: gray;
+    width: 650px;
+}
+.pinglun2{
+    height: 100px;
+    width: 660px;
+    
+    margin-top: 10px;
+}
+.pinglun2 img{
+    height: 75px;
+    width: 75px;
+}
+.bangdan{
+    margin-right: 10px;
+    
+
+}
+.bangdan ul{
+    position: relative;
+    top: -345px;
+    padding-left: 10px;
+}
+.bangdan ul li{
+    list-style-type: none;
+    font-size: 13px;
+    height: 29px;
+    cursor: pointer;
+}
+.yedi{
+    height: 70px;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+}
+.yedi ul{
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    width: 590px;
+    margin: auto;
+    padding-top: 25px;
+}
+.yedi ul li{
+    list-style: none;
+    font-size: 14px;
+    color: grey;
+    cursor: pointer;
+}
+.yedi p{
+    font-size: 9px;
+    text-align: center;
+}
